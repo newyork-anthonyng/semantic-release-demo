@@ -19,7 +19,7 @@
   "devDependencies": {
     "@semantic-release/npm": "^5.2.0",
     "jest": "^24.9.0",
-    "semantic-release": "^15.13.24",
+    "semantic-release": "^17.2.3",
     "travis-deploy-once": "^5.0.11"
   },
   "release": {
